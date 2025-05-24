@@ -1,0 +1,17 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+tqdm
+torch
+torchvision
+scikit-learn
+hdbscan
+umap-learn
+neo
+mat73
+spikeinterface
+probeinterface
+jupyter
+notebook
